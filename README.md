@@ -5,6 +5,7 @@
 - Villanueva Díaz Luisa Cristina
 
 ### Descripción Actividad
+Realizar un Jupyter Notebook utilizando el kernel iRacket con los 10 ejercicios brindados en plataforma.
 
 # Instalación y Configuración del Notebook
 ## **Prerequisitos**
