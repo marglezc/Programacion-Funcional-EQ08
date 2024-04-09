@@ -4,7 +4,26 @@ Defina una función para la evaluación del número combinatorio C(n,k), que uti
 definición recursiva.
 ![Definición recursiva](https://github.com/marglezc/Programacion-Funcional-EQ08/blob/Archivos/Imagenes/e1.1.png)
 
+* Ejemplo de entrada : (combinatorio 5 2)
+* Ejemplo de salida: 10
 
+**Entrada**
+
+* **elemento**: recibe dos números enteros n y k. Estos números representan respectivamente el tamaño del conjunto del que se eligen los elementos (n) y la cantidad de elementos que se van a seleccionar (k).
+
+**Salida**
+
+La salida de la función será un número entero que representa el coeficiente binomial, es decir, el número de formas en que se pueden elegir k elementos de un conjunto de n elementos.
+
+```
+Ejercicio 1
+(define (combinatorio n k)
+  (cond
+    [(or (= k 0) (= k n)) 1]
+    [else (+ (combinatorio (- n 1) (- k 1))
+             (combinatorio (- n 1) k))]))
+(displayln (combinatorio 5 2))
+```
 
 ## Ejercicio 2
 Defina una función recursiva para calcular el Máximo Común Divisor de dos enteros
