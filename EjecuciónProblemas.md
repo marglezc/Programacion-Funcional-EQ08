@@ -4,7 +4,7 @@ Defina una función para la evaluación del número combinatorio C(n,k), que uti
 definición recursiva.
 ![Definición recursiva](https://github.com/marglezc/Programacion-Funcional-EQ08/blob/Archivos/Imagenes/e1.1.png)
 
-#busca 
+##busca 
 
 
 ## Ejercicio 2
