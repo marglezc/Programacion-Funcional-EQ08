@@ -4,6 +4,9 @@ Defina una función para la evaluación del número combinatorio C(n,k), que uti
 definición recursiva.
 ![Definición recursiva](https://github.com/marglezc/Programacion-Funcional-EQ08/blob/Archivos/Imagenes/e1.1.png)
 
+#busca 
+
+
 ## Ejercicio 2
 Defina una función recursiva para calcular el Máximo Común Divisor de dos enteros
 negativos a y b con a < b usando el hecho de que MCD(a, b) = MCD(a, b-a).
