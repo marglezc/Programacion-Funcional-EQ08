@@ -54,8 +54,29 @@ b. Ejemplo de salida: #f
 ## Ejercicio 8
 Realizar una función recursiva que, dado un número entero, encuentra la suma de sus
 dígitos. No use funciones incorporadas de Racket.
-a. Ejemplo de entrada: (SumaDigitos 457)
-b. Ejemplo de salida: 16
+* Ejemplo de entrada: (SumaDigitos 457)
+* Ejemplo de salida: 16
+
+**Entrada**
+
+* Recibe un número entero n como entrada.
+  
+**Salida**
+
+* Si n es igual a 0, devuelve 0.
+* De lo contrario, suma el último dígito de n (obtenido con remainder n 10) con la suma de los dígitos restantes (obtenida al llamar recursivamente a suma-digitos con quotient n 10).
+  
+
+```
+Ejercicio 8
+(define (suma-digitos n)
+  (if (= n 0)
+      0
+      (+ (remainder n 10) (suma-digitos (quotient n 10)))))
+
+(displayln (suma-digitos 457))
+```
+
 ## Ejercicio 9
 Realizar una función recursiva que, dado un número entero decimal retorne el número
 binario equivalente. No use funciones incorporadas de Racket.
