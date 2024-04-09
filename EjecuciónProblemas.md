@@ -2,6 +2,8 @@
 ## Ejercicio 1
 Defina una función para la evaluación del número combinatorio C(n,k), que utiliza la
 definición recursiva.
+![Definición recursiva](https://github.com/marglezc/Programacion-Funcional-EQ08/blob/Archivos/Imagenes/e1.1.png)
+
 ## Ejercicio 2
 Defina una función recursiva para calcular el Máximo Común Divisor de dos enteros
 negativos a y b con a < b usando el hecho de que MCD(a, b) = MCD(a, b-a).
@@ -40,3 +42,5 @@ a. Ejemplo de entrada: (Binario 123)
 b. Ejemplo de salida: 1111011
 ## Ejercicio 10
 Utilizando la serie de Leibnitz y mediante una función recursiva, calcule el valor de PI
+![Leibnitz](https://github.com/marglezc/Programacion-Funcional-EQ08/blob/Archivos/Imagenes/e10.png)
+
