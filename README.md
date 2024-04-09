@@ -41,4 +41,7 @@ Después, registre el kernel de iRacket con Jupyter ejecutando `raco iracket ins
 
 # Descripción Problemas
 - [Problemas](https://github.com/marglezc/Programacion-Funcional-EQ08/blob/Archivos/Ejecuci%C3%B3nProblemas.md)
+
 # Notebook
+Para abrir el notebook, descargue el archivo Proy02_E08.ipynb. Ejecute `jupyter notebook` en la línea de comandos y busque el archivo en Notebook.
+Para ejecutar un comando una vez abierto el notebook, presione shift + Enter.
