@@ -12,11 +12,11 @@ Realizar un Jupyter Notebook utilizando el kernel iRacket con los 10 ejercicios 
 - [Racket](https://racket-lang.org/)
 - [Python](https://www.python.org/downloads/)
 - ZeroMQ
-en Debian/Ubuntu Linux: instala el paquete `libzmq5` 
-en RedHat/Fedora (Linux): instala el paquete `zeromq`
-en MacOS con Homebrew: ejecuta `brew install zmq`
-en Windows, esta instalado automáticamente por el paquete `zeromq-r-lib` de Racket
-para otros sistemas operativos, consulte http://zeromq.org
+  - en Debian/Ubuntu Linux: instala el paquete `libzmq5` 
+  - en RedHat/Fedora (Linux): instala el paquete `zeromq`
+  - en MacOS con Homebrew: ejecuta `brew install zmq`
+  - en Windows, esta instalado automáticamente por el paquete `zeromq-r-lib` de Racket
+  - Para otros sistemas operativos, consulte http://zeromq.org
 
 ## **Instalación de Jupyter Notebook**
 En la línea de comandos, se cambia al directorio donde está instalado Racket. Si no sabe donde se encuentra en tu equipo, puede buscarlo como Racket Folder.
