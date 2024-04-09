@@ -6,7 +6,6 @@
 
 ### Descripción Actividad
 
-# Instalación Notebook
+# Instalación y Configuración del Notebook
 # Descripción Problemas
-# Link al Notebook
-Hacer click en el enlace para acceder al Notebook.
+# Notebook
