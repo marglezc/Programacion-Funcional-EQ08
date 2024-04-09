@@ -22,7 +22,8 @@ Realizar un Jupyter Notebook utilizando el kernel iRacket con los 10 ejercicios 
 Entre a Propiedades del sistema, en Variables de entorno agregue la ruta de acceso del directorio donde está instalado Racket al `PATH` del sistema.
 ![image](https://github.com/marglezc/Programacion-Funcional-EQ08/assets/144637940/2a594f71-81cd-46ca-9001-618a248c9906)
 ![image](https://github.com/marglezc/Programacion-Funcional-EQ08/assets/144637940/23764360-e132-4916-989c-589005715128)
-![image](https://github.com/marglezc/Programacion-Funcional-EQ08/assets/144637940/6a7a2455-57ba-4802-b9c8-840a97cbe0f7)
+![image](https://github.com/marglezc/Programacion-Funcional-EQ08/assets/144637940/d44ee4aa-5742-4418-a11e-ffc90ba7a1b0)
+
 
 Si no sabe donde se encuentra en su equipo, puede buscarlo como Racket Folder.
 ![image](https://github.com/marglezc/Programacion-Funcional-EQ08/assets/144637940/2d269d07-29ac-4104-a5f2-2683000869ab)
