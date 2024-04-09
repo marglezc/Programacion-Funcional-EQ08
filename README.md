@@ -11,4 +11,5 @@
 - [Racket](https://racket-lang.org/)
 - [Python](https://www.python.org/downloads/)
 # Descripción Problemas
+- [Problemas](https://github.com/marglezc/Programacion-Funcional-EQ08/blob/Archivos/Ejecuci%C3%B3nProblemas.md)
 # Notebook
